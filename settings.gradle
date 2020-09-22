@@ -1,0 +1,2 @@
+rootProject.name='TT Generator'
+include ':app'
